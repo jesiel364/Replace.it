@@ -1,0 +1,5 @@
+txt = input('Texto: ')
+a = input('Caractere(s) a ser substituido: ')
+b = input('Novo Caractere: ')
+now = text.replace(a, b)
+print(now)
